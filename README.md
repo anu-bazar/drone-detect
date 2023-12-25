@@ -12,10 +12,11 @@ Libraries and Frameworks used in this project are:
 * Scikit-learn (Sklearn): Utilized for data splitting and machine learning-related functionalities.
 * PyTorch: Employed for building and training neural network models.
 
-I compared and evaluated the following Neural Networks for analysis and comparison. 
-
 >[!IMPORTANT]
 > The data was split into train/validation/test batches with proportions 80%:10%:10%.
+
+
+I compared and evaluated the following Neural Networks for analysis and comparison:
 
 * Convolutional Neural Network (CNN) - 95% accuracy
 * Recurrent Neural Network (RNN) - 80% accuracy
