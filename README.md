@@ -11,14 +11,15 @@ Libraries and Frameworks used in this project are:
 * NumPy: Used for numerical computations and array manipulations.
 * Scikit-learn (Sklearn): Utilized for data splitting and machine learning-related functionalities.
 * PyTorch: Employed for building and training neural network models.
-  
+
 I compared and evaluated the following Neural Networks for analysis and comparison. 
-The data was split into train/validation/test batches with proportions 80%:10%:10%.
+
+> The data was split into train/validation/test batches with proportions 80%:10%:10%.
 
 * Convolutional Neural Network (CNN) - 95% accuracy
 * Recurrent Neural Network (RNN) - 80% accuracy
 * Convolutional Recurrent Neural Network (CRNN) - 75% accuracy
   
-Evaluation Metrics used: Accuracy (In the project), Precision, Recall, F-score (Mentioned in the publication for model evaluation.)
+> Evaluation Metrics used: Accuracy (In the project), Precision, Recall, F-score (Mentioned in the publication for model evaluation.)
 
 [^1]: Y. Zhang, N. Suda, L. Lai, and V. Chandra, “Helloedge: Keyword spotting on microcontrollers,” CoRR,vol. abs/1711.07128, 2017. arXiv: 1711. 07128. [On-line]. Available: http://arxiv.org/abs/1711.07128
