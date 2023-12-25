@@ -21,7 +21,10 @@ I compared and evaluated the following Neural Networks for analysis and comparis
 * **Recurrent Neural Network (RNN)** - 80% accuracy
 * **Convolutional Recurrent Neural Network (CRNN)** - 75% accuracy
   
->[!NOTE]
-> Evaluation Metrics used: Accuracy (In the project), Precision, Recall, F-score (Mentioned in the publication for model evaluation.)
+ Evaluation Metrics used: Accuracy (In the project), Precision, Recall, F-score (Mentioned in the publication for model evaluation.)
+
+ >[!NOTE]
+> For visual renditions of the spectrograms, and further training, please click on the Jupyter notebook for a more detailed version of this project.
+> This project was done in Python via Google CoLab.
 
 [^1]: Y. Zhang, N. Suda, L. Lai, and V. Chandra, “Helloedge: Keyword spotting on microcontrollers,” CoRR,vol. abs/1711.07128, 2017. arXiv: 1711. 07128. [On-line]. Available: http://arxiv.org/abs/1711.07128
