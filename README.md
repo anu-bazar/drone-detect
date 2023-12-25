@@ -6,21 +6,20 @@ This project was based on the [Conference Paper Here](https://www.researchgate.n
 
 Libraries and Frameworks used in this project are:
 
-* Librosa: audio processing (spectrogram) and feature extraction;
-* Matplotlib: visualizing spectrograms;
-* NumPy: array manipulations;
-* Scikit-learn (Sklearn): data splitting and machine learning-related functionalities;
-* PyTorch: building and training neural network models in Tensor format.
+* **Librosa**: audio processing (spectrogram) and feature extraction;
+* **Matplotlib**: visualizing spectrograms;
+* **NumPy**: array manipulations;
+* **Scikit-learn (Sklearn)**: data splitting and machine learning-related functionalities;
+* **PyTorch**: building and training neural network models in Tensor format.
 
 >[!IMPORTANT]
 > The data was split into train/validation/test batches with proportions 80%:10%:10%.
 
-
 I compared and evaluated the following Neural Networks for analysis and comparison:
 
-* Convolutional Neural Network (CNN) - 95% accuracy
-* Recurrent Neural Network (RNN) - 80% accuracy
-* Convolutional Recurrent Neural Network (CRNN) - 75% accuracy
+* **Convolutional Neural Network (CNN)** - 95% accuracy
+* **Recurrent Neural Network (RNN)** - 80% accuracy
+* **Convolutional Recurrent Neural Network (CRNN)** - 75% accuracy
   
 >[!NOTE]
 > Evaluation Metrics used: Accuracy (In the project), Precision, Recall, F-score (Mentioned in the publication for model evaluation.)
