@@ -6,11 +6,11 @@ This project was based on the [Conference Paper Here](https://www.researchgate.n
 
 Libraries and Frameworks used in this project are:
 
-* Librosa: Used for audio processing and feature extraction.
-* Matplotlib: Utilized for visualizing spectrograms.
-* NumPy: Used for numerical computations and array manipulations.
-* Scikit-learn (Sklearn): Utilized for data splitting and machine learning-related functionalities.
-* PyTorch: Employed for building and training neural network models.
+* Librosa: audio processing (spectrogram) and feature extraction;
+* Matplotlib: visualizing spectrograms;
+* NumPy: array manipulations;
+* Scikit-learn (Sklearn): data splitting and machine learning-related functionalities;
+* PyTorch: building and training neural network models in Tensor format.
 
 >[!IMPORTANT]
 > The data was split into train/validation/test batches with proportions 80%:10%:10%.
